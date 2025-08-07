@@ -1,2 +1,2 @@
 # KiCAD-Projects
-KiCAD projects/assignments Daily Update
+KiCAD projects/assignments Daily Upd
